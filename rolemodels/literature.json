@@ -34,8 +34,8 @@
   }
   
   {
- name":"Isabel Allende ",
-   "ethnicity":" Chilean", </p>
+ "name":"Isabel Allende ",
+   "ethnicity":" Chilean",
    "birthdate":"August 2, 1942",
    "birth_place":"Lima Peru ",
    "occupation":"Allende is an author who is dubbed to be the world's most widely read Spanish-language author.",
@@ -48,7 +48,7 @@
    }
   }
   {
-  name":" Alice Walker",
+  "name":" Alice Walker",
   </p>
     "ethnicity":"  African American",
    "birthdate":"February 9, 1944",
@@ -63,7 +63,7 @@
    }
   }  
 {
-  name":"Tarereh Mafi",
+  "name":"Tarereh Mafi",
   
    "ethnicity":" Iranian American",
    "birthdate":" November 9, 1988",
@@ -78,7 +78,7 @@
    }
   }  
 {
-  name":"Renee Ahdieh ",
+  "name":"Renee Ahdieh ",
    "ethnicity":"South- Korean ",
    "birthdate":"Unknown",
    "birth_place":"Unknown",
@@ -92,7 +92,7 @@
       "biography":"http://www.reneeahdieh.com"
    }
   }  {
-  name":"Sabaa Tahir ",
+"name":"Sabaa Tahir ",
    "ethnicity":"Pakistani- American",
    "birthdate":"Unknown",
    "birth_place":"New York City",
@@ -105,7 +105,7 @@
       "biography":"http://www.teenreads.com/authors/sabaa-tahir"
    }
   }  {
-  name":"Chimamanda Ngozi Adichie ",
+  "name":"Chimamanda Ngozi Adichie ",
    "ethnicity":"Nigerian ",
    "birthdate":"September 15, 1977 ",
    "birth_place":"Enugu, Nigeria",
@@ -118,7 +118,7 @@
       "biography":"http://www.cerep.ulg.ac.be/adichie/index.html"
    }
   }  {
-  name":"Toni Morrison",
+  "name":"Toni Morrison",
    "ethnicity":"African American  ",
    "birthdate":" February 18, 1931",
    "birth_place":"Lorain, Ohio",
@@ -131,13 +131,9 @@
       "wiki":"https://en.wikipedia.org/wiki/Toni_Morrison"
    }
   }  {
- name":"Zora Neale Hurston ",
-     </p>
-        <p> <u>Birthday:</u>  </p> 
-        <p> <u> Born in: </u>  </p>   
-        <p> <u> Died in: </u> January 28, 1960 
+" name":"Zora Neale Hurston ",
    "ethnicity":"Scottiish and Dutch ",
-   "birthdate":"Janurary 7, 1981",
+   "birthdate":"January 7, 1891",
    "birth_place":"Notasulga, Alabama",
    "death_date":"January 28, 1960",
    "occupation":"Zora Neale Hurston was an novelist, short story writer, folklorist, and anthropologist  ",
