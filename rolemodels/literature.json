@@ -49,7 +49,6 @@
   }
   {
   "name":" Alice Walker",
-  </p>
     "ethnicity":"  African American",
    "birthdate":"February 9, 1944",
    "birth_place":" Putman Country, Georgia ",
@@ -91,7 +90,8 @@
    "urls":{
       "biography":"http://www.reneeahdieh.com"
    }
-  }  {
+  }  
+{
 "name":"Sabaa Tahir ",
    "ethnicity":"Pakistani- American",
    "birthdate":"Unknown",
@@ -104,7 +104,8 @@
    "urls":{
       "biography":"http://www.teenreads.com/authors/sabaa-tahir"
    }
-  }  {
+  }  
+{
   "name":"Chimamanda Ngozi Adichie ",
    "ethnicity":"Nigerian ",
    "birthdate":"September 15, 1977 ",
@@ -117,7 +118,8 @@
    "urls":{
       "biography":"http://www.cerep.ulg.ac.be/adichie/index.html"
    }
-  }  {
+  }  
+{
   "name":"Toni Morrison",
    "ethnicity":"African American  ",
    "birthdate":" February 18, 1931",
@@ -130,7 +132,8 @@
    "urls":{
       "wiki":"https://en.wikipedia.org/wiki/Toni_Morrison"
    }
-  }  {
+  } 
+{
 " name":"Zora Neale Hurston ",
    "ethnicity":"Scottiish and Dutch ",
    "birthdate":"January 7, 1891",
